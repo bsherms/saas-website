@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="436" height="436" viewBox="0 0 436 436">
+  <defs>
+    <clipPath id="clip-Artboard_1">
+      <rect width="436" height="436"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" clip-path="url(#clip-Artboard_1)">
+    <rect width="436" height="436" fill="#fff"/>
+    <g id="Group_173" data-name="Group 173" transform="translate(-120 -1255)">
+      <g id="Path_61" data-name="Path 61" transform="translate(120 1255)" fill="#00ffcb">
+        <path d="M 434 433.9999694824219 L 1.999984741210938 433.9999694824219 L 1.999984741210938 2.000025033950806 L 434 2.000025033950806 L 434 433.9999694824219 Z" stroke="none"/>
+        <path d="M 3.999969482421875 3.999969482421875 L 3.999969482421875 431.9999084472656 L 432 431.9999084472656 L 432 3.999969482421875 L 3.999969482421875 3.999969482421875 M -3.0517578125e-05 -3.0517578125e-05 L 436 -3.0517578125e-05 L 436 435.9999084472656 L -3.0517578125e-05 435.9999084472656 L -3.0517578125e-05 -3.0517578125e-05 Z" stroke="none"/>
+      </g>
+      <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(336 1255)" fill="#006bff" stroke="#000" stroke-width="4">
+        <rect width="220" height="436" stroke="none"/>
+        <rect x="2" y="2" width="216" height="432" fill="none"/>
+      </g>
+      <g id="Group_52" data-name="Group 52" transform="translate(184 1394.599)">
+        <text id="A" transform="translate(37 100)" fill="#006bff" font-size="100" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="-37.05" y="0">A</tspan></text>
+        <text id="B" transform="translate(263 100)" fill="#00ffcb" font-size="100" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="-32.4" y="0">B</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
