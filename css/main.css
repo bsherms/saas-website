@@ -23,3 +23,15 @@ nav a {
 .banner-img {
   min-width: 873px;
 }
+
+.btn {
+  background-color: #006BFF;
+  border-color: #FFF;
+  color: #FFF;
+  border-radius: 25px;
+}
+
+.btn:hover {
+  background-color: #FFF;
+  color: #006BFF;
+}
